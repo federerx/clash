@@ -1,0 +1,20 @@
+# Google AI desktop app and web routing
+PROCESS-PATH,/Applications/Antigravity.app/Contents/MacOS/Electron
+PROCESS-PATH,/Applications/Antigravity.app/Contents/Frameworks/Antigravity Helper.app/Contents/MacOS/Antigravity Helper
+PROCESS-PATH,/Applications/Antigravity.app/Contents/Frameworks/Antigravity Helper (GPU).app/Contents/MacOS/Antigravity Helper (GPU)
+PROCESS-PATH,/Applications/Antigravity.app/Contents/Frameworks/Antigravity Helper (Renderer).app/Contents/MacOS/Antigravity Helper (Renderer)
+PROCESS-PATH,/Applications/Antigravity.app/Contents/Frameworks/Antigravity Helper (Plugin).app/Contents/MacOS/Antigravity Helper (Plugin)
+DOMAIN,gemini.google.com
+DOMAIN,clients6.google.com
+DOMAIN,play.google.com
+DOMAIN,www.google.com
+DOMAIN-SUFFIX,antigravity.google
+DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,notebooklm.google.com
+DOMAIN-SUFFIX,accounts.google.com
+DOMAIN-SUFFIX,accounts.youtube.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,ytimg.com

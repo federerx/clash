@@ -1,0 +1,11 @@
+# Claude desktop app and web routing
+PROCESS-PATH,/Applications/Claude.app/Contents/MacOS/Claude
+PROCESS-PATH,/Applications/Claude.app/Contents/Frameworks/Claude Helper.app/Contents/MacOS/Claude Helper
+PROCESS-PATH,/Applications/Claude.app/Contents/Frameworks/Claude Helper (Renderer).app/Contents/MacOS/Claude Helper (Renderer)
+PROCESS-PATH,/Applications/Claude.app/Contents/Frameworks/Claude Helper (Plugin).app/Contents/MacOS/Claude Helper (Plugin)
+PROCESS-PATH,/Applications/Claude.app/Contents/Frameworks/Claude Helper (GPU).app/Contents/MacOS/Claude Helper (GPU)
+DOMAIN,api.anthropic.com
+DOMAIN,console.anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,anthropic.com
