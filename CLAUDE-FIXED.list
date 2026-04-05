@@ -5,6 +5,7 @@ PROCESS-PATH,/Applications/Claude.app/Contents/Frameworks/Claude Helper (Rendere
 PROCESS-PATH,/Applications/Claude.app/Contents/Frameworks/Claude Helper (Plugin).app/Contents/MacOS/Claude Helper (Plugin)
 PROCESS-PATH,/Applications/Claude.app/Contents/Frameworks/Claude Helper (GPU).app/Contents/MacOS/Claude Helper (GPU)
 DOMAIN,api.anthropic.com
+DOMAIN,api3.cursor.sh
 DOMAIN,console.anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
